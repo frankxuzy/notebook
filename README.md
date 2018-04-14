@@ -1,7 +1,7 @@
 # notebook
 
 ### 14/04/2018
-When I try to change the default directory of handlebar views
+issue found when changing the default directory of handlebar views folder
 ```
 server.set('view engine', 'hbs')
 server.set('views', path.join(__dirname, 'views'))
